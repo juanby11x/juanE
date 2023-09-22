@@ -1,0 +1,28 @@
+HTML es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.1
+
+Historia de HTML
+
+El origen de HTML se remonta a 1980, cuando el físico Tim Berners-Lee, trabajador del CERN (Organización Europea para la Investigación Nuclear) propuso un nuevo sistema de “hipertexto” para compartir documentos. Los sistemas de “hipertexto” habían sido desarrollados años antes. En el ámbito de la informática, el “hipertexto” permitía que los usuarios accedieran a la información relacionada con los documentos electrónicos que estaban visualizando. De cierta manera, los primitivos sistemas de “hipertexto” podrían asimilarse a los enlaces de las páginas web actuales.2
+
+Tras finalizar el desarrollo de su sistema de “hipertexto”, Tim Berners-Lee lo presentó a una convocatoria organizada para desarrollar un sistema de “hipertexto” para Internet. Después de unir sus fuerzas con el ingeniero de sistemas Robert Cailliau, presentaron la propuesta ganadora llamada WorldWideWeb (W3). El primer documento formal con la descripción de HTML se publicó en 1991 bajo el nombre HTML Tags (Etiquetas HTML) y todavía hoy puede ser consultado online a modo de reliquia informática.2
+
+Evolución del lenguaje HTML
+
+HTML ha evolucionado con la actualización de varias versiones, cada una con sus propias características y novedades. A continuación se presenta un breve resumen de las principales versiones de HTML:
+
+HTML 1.0: Fue la primera versión de HTML, publicada en 1991 por Tim Berners-Lee. Contenía solo unas pocas etiquetas básicas para estructurar el texto y crear enlaces.
+HTML 2.0: Fue el primer estándar oficial de HTML, publicado en 1995 por el organismo IETF (Internet Engineering Task Force). Incorporó etiquetas para imágenes, tablas y formularios.
+HTML 3.0: Fue una propuesta de estándar que no llegó a ser aceptada oficialmente, publicada en 1995 por Dave Raggett. Introdujo etiquetas para elementos multimedia, como sonido y vídeo, así como para elementos gráficos, como figuras y capas.
+HTML 3.2: Fue la primera recomendación de HTML publicada por el W3C (World Wide Web Consortium), el organismo encargado de los estándares web desde 1996. Se publicó en 1997 e incorporó los últimos avances de las páginas web desarrolladas hasta 1996, como applets de Java y texto que fluye alrededor de las imágenes.
+HTML 4.0: Fue una gran actualización de HTML, publicada en 1998 por el W3C. Entre sus novedades más destacadas se encuentran las hojas de estilos CSS, la posibilidad de incluir pequeños programas o scripts en las páginas web, la mejora de la accesibilidad de las páginas diseñadas, las tablas complejas y las mejoras en los formularios.
+HTML 4.01: Fue la última especificación oficial de HTML, publicada en 1999 por el W3C. Corrigió algunos errores y ambigüedades de la versión anterior.
+HTML 5.0: Es la versión más reciente y moderna de HTML, publicada en 2014 por el W3C y el WHATWG (Web Hypertext Application Technology Working Group). Añade nuevas etiquetas para elementos semánticos, multimedia, gráficos, geolocalización, almacenamiento local, entre otros. También introduce nuevas APIs (Application Programming Interfaces) para facilitar el desarrollo de aplicaciones web.
+Características
+
+Algunas de las características más importantes de HTML son:
+
+Es un lenguaje de marcado, es decir, utiliza etiquetas para definir el contenido y la estructura de una página web.
+Es un lenguaje estándar, es decir, sigue unas normas establecidas por organismos internacionales que garantizan su compatibilidad e interoperabilidad.
+Es un lenguaje universal, es decir, puede ser utilizado en cualquier plataforma y dispositivo que tenga un navegador web.
+Es un lenguaje flexible y extensible, es decir, permite adaptarse a las necesidades y preferencias de los desarrolladores y usuarios mediante el uso de atributos, hojas de estilos, scripts, etc.
+Es un lenguaje sencillo y fácil de aprender, es decir, tiene una sintaxis clara y simple que facilita su comprensión y escritura.
